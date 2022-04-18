@@ -1,0 +1,94 @@
+What started as an exciting job five years ago had become rather dull and
+routine for Addie. Her afternoons dragged on while she sat in front of her
+computer. The dim sun, half the intensity of sun on earth and often obscured
+by duststorms, only encouraged the familiar afternoon drowsiness. On top of
+that, the programming tasks that the new director, Henshaw, had been giving
+her were extremely boring. Addie shook herself and tried to focus on her
+screen. The data entry work she was doing was barely keeping her awake.
+
+Her incoming email icon flashed. Probably yet another uninspired task from
+Henshaw. Reluctantly, she opened the email. It took a second to read the
+sender's name but then Addie sat right up. It wasn't from Henshaw at all. It
+was from Goliss. Addie hadn't heard from her in quite a while. In fact, after
+Goliss's demotion, every attempt to contact her had been unanswered. So why
+was the ex-director contacting her now?
+
+The email message was short: "Give me a call in ten minutes. From somewhere
+private. G."
+
+Addie's thoughts started to churn. This sounded interesting and
+intriguing. Even though she hadn't talked with the ex-director about the
+incident, she had always felt that Van Halen mishandled the situation. She was
+sure that Boston's incompetent Director, Williams, was involved. Quickly
+wrapping up a couple things at her workstation, Addie rolled back from her
+desk. The reduced gravity on Mars made it way too easy to push the desk chair
+all the way across the room but with an amused smile Addie manage to control
+herself.
+
+One year after landfall Bon Jovi had erected a tall observation tower. At the
+base of the tower they had built a recreation center that became very popular
+for the colony residents. Above the rec center the tower itself extended three
+hundred feet and an elevator ran to the top where there was a small
+twenty-five hour cafe with a 360 degree view of rust colored rocks and rust
+colored dust. At first this was quite the hotspot but the novelty wore off
+within a few months. The unchanging scenery, red rocks as far as anyone could
+see, wasn't enough to keep people excited. Now, the Barsoom Lounge was usually
+occupied by small groups of people looking for some quiet or private space.
+
+Addie arrived at the lounge and found a small table near the window with
+plenty of space between her and a group of three nerdy looking guys. Those
+guys seemed to be involved in some sort of table top board game so they
+wouldn't be paying attention to her. She dialed Goliss' number on her phone
+and waited for the answer.
+
+"Hello." Goliss answered on the first ring. "Thanks so much for calling me
+back."  There was urgency in her voice and she sounded a little worked up. She
+continued without waiting for Addie's reply. "What do you know about what
+happened a few years ago with Boston?"
+
+"Well," Addie replied slowly. She knew that she didn't know the whole
+story. "I only know that after the crash, Van Halen did an investigation. The
+Boston Director provided the data for their investigation and they found that
+you were at fault. So they demoted you from Bon Jovi and sent you to
+Survivor. To be honest, I didn't think it was fair."
+
+Goliss sputtered on the phone. "Fair! Of course it wasn't fair. That scum
+Williams, he faked the data. I knew it but I couldn't prove it. He just did it
+to save his own skin. He was, actually still is, an incompetant fool. But now
+I have something." Her tone turned more conspiratorial. "I can prove that
+Williams' incompetance is still in full swing. I want to get him out of there!
+This is where I need your help."
+
+A twinge of excitement raced through Addie. This definitely sounded better
+than the drivel that Henshaw kept sending her way. She always had liked Goliss
+and if she could do something to help her -- well, it sounded great.
+
+"Ok. What is it? How can I help?"
+
+"Have you seen the production reports from Boston over the last couple of
+years?"
+
+"Yeah. Kind of. I'm not interested in that stuff, really, so I only barely pay
+attention. Henshaw keeps posting the reports. I think he wants us all to see
+how the other sites are doing so we don't get lazy. Or something like that."
+
+"Well, they are fake. I'm sure of it. I got my hands on a big chunk of raw
+data from the last three years. Over 300,000 data entries. When I started
+sifting through the data I found that it wasn't matching the official Boston
+reports. I think I can prove that they are falling way behind in water and
+mineral production from their mines. It will take me months to look through
+the data manually so I was hoping you could write a small program to do this
+automatically. And if we can prove that Williams is lying about this... well,
+it just might raise some valid questions."
+
+"Uh. Sure. That seems possible."
+
+"Ok good. I'll email the data file over to you. Along with an explanation and
+example of the report I need." The ex-director sounded excited and
+energized. "I can't tell you how this makes me feel. Finally I'm going to be
+able to get that reprehensible man to face the music. I'll send the files
+right away. Ok?"
+
+"Ok. Awesome. I'll get right on it. Should be just a couple of days."
+
+"Thanks," she replied. "I really appreciate it." She ended the call.

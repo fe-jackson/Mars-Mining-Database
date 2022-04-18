@@ -1,0 +1,39 @@
+This is the grading rubric for the Production programming assignment.
+
+================
+If the program fails to compile, crashes, or hangs then the program
+automatically gets a 0.
+================
+
+Functionality	     5
+ - output for fulldata.txt matches fulloutput.txt 100% (including all whitespace)
+ - the program runs on fulldata.txt.txt in less than 5 seconds
+
+Implementation	    3
+  - No memory leaks or memory errors.
+  - The program must use the supplied showrepot.cpp file, unmodified, as the
+    main driver.
+
+Design		     10
+  - The production database must be 100% data-driven. That is, it must be
+    general enough to work with any number of stations, any number of resources,
+    and any number of years. You can safely assume that all years have 12 months.
+  - The production database has no idea what sort of report will be generated so
+    the database must keep all of the data. In particular, the database cannot
+    anticipate that a "month-by-month" summary will be generated later.
+  - The production database MUST NOT print any data. There should be NO output
+    operations in the production database.
+  - The reporter class should not rely on any data structures in the
+    productiondb class. This means, for example, that in there should be a way
+    for the reporter to ask the productiondb for a list of stations. This
+    should return a new list of stations independent of how the productiondb
+    keeps track of stations.
+
+Style		     2
+ - all items in the course Coding Standards are followed (See D2L)
+ - each class is defined in a separate file
+ - class definition and implementation are in separate files (unless a template)
+ - at most 1 return path per function or method
+ - No use of "break" or "continue" in a loop
+
+Total:		    20
